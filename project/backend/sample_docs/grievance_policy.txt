@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Grievance Redressal Policy
+
+Section 1: Filing a Grievance
+Students may file a grievance through the online grievance portal or by submitting a written complaint to the grievance redressal officer. The grievance officer for the academic year 2024-25 is Professor R. Sharma, located in Room 104 of the Administrative Block.
+
+Section 2: Response Time
+Grievances are acknowledged within 3 working days and resolved within 15 working days. If a grievance is not resolved within this period, the student may escalate it to the Principal.
+
+Section 3: Grievance Categories
+Grievances may relate to academics, examinations, hostel, library, fees, or harassment. Each category is handled by a designated sub-committee that reports to the grievance redressal officer.
+
+Section 4: Confidentiality
+All grievances are treated with strict confidentiality. The identity of the complainant is protected and retaliation against complainants is treated as a serious disciplinary offence.

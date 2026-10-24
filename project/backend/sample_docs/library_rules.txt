@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Library Rules and Services
+
+Section 1: Membership and Access
+All enrolled students are automatically members of the college library. The library is open from 8:30 AM to 8:00 PM on all working days. Students must swipe their college ID card at the entrance.
+
+Section 2: Borrowing Limits
+Undergraduate students may borrow up to 4 books at a time for a period of 14 days. Postgraduate students may borrow up to 6 books for 21 days. Reference books and journals are not issued and must be read within the library.
+
+Section 3: Overdue Fines
+A fine of Rs. 2 per day is charged for each overdue book. If a book is overdue by more than 30 days, borrowing privileges are suspended until the book is returned and the fine is paid.
+
+Section 4: Lost Books
+If a borrowed book is lost, the student must either replace it with the same or latest edition or pay twice the current market price of the book.

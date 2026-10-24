@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Code of Conduct
+
+Section 1: General Behaviour
+Students are expected to maintain discipline and decorum on campus. Ragging in any form is strictly prohibited and is a punishable offence under the Anti-Ragging Act. Violations may result in suspension or expulsion.
+
+Section 2: Dress Code
+Students must wear decent and appropriate clothing. Casual wear such as shorts and sleeveless tops is not permitted in academic buildings. Lab courses require closed shoes.
+
+Section 3: Anti-Ragging Committee
+An anti-ragging committee is constituted every academic year. Complaints can be filed with the committee within 7 days of any incident. The committee must resolve complaints within 30 days.
+
+Section 4: Disciplinary Action
+Depending on severity, disciplinary action ranges from a written warning, to fine, to suspension, to expulsion. All disciplinary actions are recorded in the student's file.

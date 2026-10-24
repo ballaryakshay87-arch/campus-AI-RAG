@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Hostel Handbook 2024-25
+
+Section 1: Allocation
+Hostel seats are allotted based on academic merit and distance from residence. First-year students are given priority for hostel accommodation. The annual hostel fee for boys is Rs. 35,000 and for girls is Rs. 33,000 inclusive of food.
+
+Section 2: Curfew and Entry
+Hostel gates close at 9:30 PM. Students must return to the hostel before the gate closing time. Late entry requires prior written permission from the hostel warden. Repeated late entries may result in eviction from the hostel.
+
+Section 3: Visitors
+Visitors are allowed only between 10:00 AM and 5:00 PM. No overnight guests are permitted. Parents may visit on the second Saturday of every month.
+
+Section 4: Mess Timings
+Breakfast is served from 7:30 AM to 9:00 AM, lunch from 12:30 PM to 2:00 PM, snacks from 4:30 PM to 5:30 PM, and dinner from 7:30 PM to 9:00 PM.

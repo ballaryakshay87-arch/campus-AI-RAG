@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Examination Policy 2024-25
+
+Section 1: Examination Schedule
+End-semester examinations are conducted during the last two weeks of each semester. Mid-semester examinations are held in the 8th week. The examination timetable is published at least 30 days before the exams begin.
+
+Section 2: Hall Ticket
+Students must carry a printed hall ticket and a valid college ID card to every examination. Entry to the exam hall is not permitted without these documents.
+
+Section 3: Malpractice
+Any student found guilty of malpractice during an examination will be debarred from all examinations for one full semester and the current exam will be cancelled. Repeat offences lead to expulsion from the college.
+
+Section 4: Re-evaluation
+Students may apply for re-evaluation of end-semester answer scripts within 10 days of result publication. The re-evaluation fee is Rs. 500 per subject. Re-evaluated marks are final and binding.

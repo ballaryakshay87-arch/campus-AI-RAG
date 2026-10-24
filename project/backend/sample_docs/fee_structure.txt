@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Fee Structure 2024-25
+
+Section 1: Tuition Fees
+The annual tuition fee for Bachelor of Engineering programs is Rs. 1,20,000. For Bachelor of Science programs it is Rs. 75,000. For postgraduate programs the annual tuition fee is Rs. 90,000. Fees must be paid in two equal instalments before August 15th and January 15th.
+
+Section 2: Other Fees
+A one-time admission fee of Rs. 5,000 is charged at the time of admission. The library fee is Rs. 1,500 per year, the examination fee is Rs. 2,000 per year, and the sports and cultural fee is Rs. 1,000 per year.
+
+Section 3: Late Payment
+A late fee of Rs. 500 per week is charged for overdue tuition payments. If fees remain unpaid for more than 4 weeks, the student's access to classes and examinations may be withheld.
+
+Section 4: Refunds
+If a student withdraws admission before the start of classes, 90% of the tuition fee is refunded. Withdrawal within 30 days of class commencement gets a 50% refund. No refund is given after 30 days.

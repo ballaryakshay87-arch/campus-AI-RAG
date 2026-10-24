@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Placement Cell Guidelines
+
+Section 1: Registration
+All final-year students who wish to participate in campus placements must register with the placement cell by August 31st. Registration is free and requires submission of an updated resume and academic transcripts.
+
+Section 2: Eligibility
+To be eligible for campus placements, students must maintain a CGPA of 6.5 or above, have no active backlogs, and have attendance of 75% or above. Some companies may set higher CGPA requirements.
+
+Section 3: Placement Process
+The placement season runs from September to March. Companies conduct pre-placement talks followed by aptitude tests, technical interviews, and HR interviews. Selected students receive offer letters within 15 days.
+
+Section 4: Offer Acceptance
+A student who accepts a placement offer is not eligible to sit for further companies in the same season unless permitted by the placement cell. Accepting multiple offers is not allowed.

@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Attendance Policy
+
+Section 1: Minimum Attendance
+Every student must maintain a minimum of 75% attendance in each course to be eligible to appear for the end-semester examination. Attendance is calculated from the total number of classes conducted.
+
+Section 2: Condonation
+Students with attendance between 60% and 74% may apply for condonation on medical grounds with a valid medical certificate. A condonation fee of Rs. 1,000 per subject is charged. Students below 60% attendance are not eligible for condonation.
+
+Section 3: Medical Leave
+Medical leave is granted for a maximum of 10 days per semester on submission of a certificate from a registered medical practitioner. Medical leave does not count against attendance.
+
+Section 4: Attendance Shortage
+Students falling short of 75% attendance without valid condonation will not be permitted to write the end-semester examination and must repeat the course in the next available semester.

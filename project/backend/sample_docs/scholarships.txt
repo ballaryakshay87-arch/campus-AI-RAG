@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Scholarship and Financial Aid
+
+Section 1: Merit Scholarship
+Students who achieve a CGPA of 8.5 or above in a semester are eligible for a merit scholarship of Rs. 10,000 per semester. The scholarship is credited to the student's bank account within 60 days of result publication.
+
+Section 2: Need-Based Financial Aid
+Students with family annual income below Rs. 3 lakhs are eligible for need-based financial aid covering up to 50% of tuition fees. Applications must be submitted with income proof to the financial aid office by August 31st each year.
+
+Section 3: Sports Scholarship
+Students representing the college at the state or national level in sports receive a scholarship of Rs. 7,500 per semester and exemption from attendance for the days of participation.
+
+Section 4: Research Grant
+Undergraduate students undertaking research projects can apply for a grant of up to Rs. 25,000. The proposal must be approved by the department head and the research committee.

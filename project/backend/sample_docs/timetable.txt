@@ -1,0 +1,12 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Class Timetable 2024-25
+
+Section 1: Class Hours
+Classes are conducted in six periods per day. Period 1 is from 9:00 AM to 9:50 AM, Period 2 from 9:50 AM to 10:40 AM, Period 3 from 11:00 AM to 11:50 AM, Period 4 from 11:50 AM to 12:40 PM, Period 5 from 2:00 PM to 2:50 PM, and Period 6 from 2:50 PM to 3:40 PM.
+
+Section 2: Breaks
+There is a 20-minute tea break from 10:40 AM to 11:00 AM and a lunch break from 12:40 PM to 2:00 PM. No classes are scheduled during breaks.
+
+Section 3: Friday Schedule
+Friday afternoons from 2:00 PM to 4:00 PM are reserved for club activities, seminars, and guest lectures. Attendance at these sessions is mandatory and counts toward the 75% attendance requirement.

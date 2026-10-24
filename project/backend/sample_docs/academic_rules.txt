@@ -1,0 +1,15 @@
+This is DEMO sample policy data for the College Knowledge Assistant, not verified facts about a real college.
+
+# Academic Rules and Regulations 2024-25
+
+Section 1: Grading System
+The college follows a 10-point grading system. Grades are assigned as follows: O (Outstanding, 10 points, 90-100%), A+ (9 points, 80-89%), A (8 points, 70-79%), B+ (7 points, 60-69%), B (6 points, 50-59%), C (5 points, 45-49%), P (4 points, 40-44%), F (Fail, below 40%).
+
+Section 2: Semester Structure
+Each academic year consists of two semesters. The odd semester runs from August to December and the even semester runs from January to May. Each semester has 18 weeks of instruction including mid-semester and end-semester examinations.
+
+Section 3: Minimum Credits
+A student must earn a minimum of 160 credits to graduate with a Bachelor's degree. Each course carries between 2 and 4 credits depending on contact hours.
+
+Section 4: Promotion Rules
+A student is promoted to the next semester only if they have earned at least 50% of the credits offered in the previous semester. Students failing to meet this requirement must repeat the semester.
